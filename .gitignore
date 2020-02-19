@@ -3,4 +3,4 @@ data/
 *.ipynb_checkpoints
 **/image_processed/
 *.torch
-*.pdf
+**.pdf
